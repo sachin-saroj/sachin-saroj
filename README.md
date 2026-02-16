@@ -3,12 +3,9 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=コードと知能&fontSize=30&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=コーFOCUS&fontSize=30&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-⚡ Full-Stack Developer  
-🧠 AI-Integrated Applications  
-🚀 Performance-Oriented Engineering
 # 👋 Hi, I'm Sachin Saroj  
 ### Full-Stack Developer | AI-Integrated Web Applications | Performance-Focused Systems
 
