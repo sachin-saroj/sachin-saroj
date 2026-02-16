@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=FOCUS&fontSize=30&fontColor=ffffff&animation=fadeIn" />
+  <img src="banner.png" width="100%" />
 </p>
 
 # 👋 Hi, I'm Sachin Saroj  
