@@ -1,10 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&duration=3000&pause=1000&color=F700FF&center=true&vCenter=true&width=800&lines=Sachin+Saroj;Full-Stack+Developer;AI-Integrated+Systems;Building+Real+Products" />
+  <img src="https://i.imgur.com/8Km9tLL.gif" width="100%" />
 </p>
+<h1 align="center">Sachin Saroj</h1>
+<h3 align="center">Full-Stack Developer | AI Systems | Performance-Driven Architect</h3>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=コードと知能&fontSize=30&fontColor=ffffff&animation=fadeIn" />
-</p>
 
 # 👋 Hi, I'm Sachin Saroj  
 ### Full-Stack Developer | AI-Integrated Web Applications | Performance-Focused Systems
