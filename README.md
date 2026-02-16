@@ -1,8 +1,9 @@
 <p align="center">
-  <img src="https://i.imgur.com/8Km9tLL.gif" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=200&text=Sachin%20Saroj&fontSize=50&fontColor=ffffff&animation=twinkling" />
 </p>
-<h1 align="center">Sachin Saroj</h1>
-<h3 align="center">Full-Stack Developer | AI Systems | Performance-Driven Architect</h3>
+⚡ Full-Stack Developer  
+🧠 AI-Integrated Applications  
+🚀 Performance-Oriented Engineering
 
 
 # 👋 Hi, I'm Sachin Saroj  
