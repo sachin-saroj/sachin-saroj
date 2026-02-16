@@ -1,26 +1,39 @@
-# 🚀 Sachin Saroj  
-**Frontend-Focused Software Developer | React | AI-Integrated Web Applications**
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f1c2c,100:928dab&height=200&section=header&text=Sachin%20Saroj&fontSize=40&fontColor=ffffff" />
+</p>
 
-I build production-oriented web applications with a focus on performance, clean architecture, and practical problem-solving.
+# 👋 Hi, I'm Sachin Saroj  
+### Full-Stack Developer | AI-Integrated Web Applications | Performance-Focused Systems
 
-Currently developing AI-powered tools in the programming education space, including a structured learning platform and an AI-driven programming search engine.
+I build scalable web applications combining **React frontend**, **Python backend**, and **AI-powered workflows**.  
+Focused on clean architecture, performance optimization, and real-world product development.
 
 ---
 
-## 🎯 What I Do
+## 🚀 What I Build
 
-- Build responsive, mobile-first web applications  
-- Integrate AI APIs into real product workflows  
-- Design clean UI with performance in mind  
-- Develop structured frontend architectures  
-- Translate product ideas into working systems  
+- ⚡ Responsive & performance-optimized web apps  
+- 🧠 AI-integrated developer tools  
+- 🔗 API-connected full-stack systems  
+- 🏗 Structured and maintainable architectures  
 
 ---
 
 ## 🧠 Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,javascript,html,css,python,git,github" />
+### 💻 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,javascript,html,css" />
+</p>
+
+### ⚙ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=python,nodejs" />
+</p>
+
+### 🤖 AI & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
@@ -28,31 +41,29 @@ Currently developing AI-powered tools in the programming education space, includ
 ## 🧩 Featured Projects
 
 ### 🔹 AI Programming Learning Platform  
-Structured learning website focused on clarity and real understanding.  
+Structured learning system with AI chatbot integration and scalable UI architecture.
 
 ### 🔹 AI Programming Search Engine  
-Focused tool delivering precise programming answers using AI.
+Custom search system delivering contextual programming answers using AI APIs.
 
 ---
 
-## 🛠 Engineering Approach
+## 📊 GitHub Stats
 
-- Clean structure over quick hacks  
-- Performance before aesthetics  
-- Functionality before hype  
-- Product-first thinking  
-
----
-
-## 🎯 Career Direction
-
-Preparing for:
-- Frontend Developer roles  
-- React Developer roles  
-- Full-Stack (React + Python) roles  
-
-Open to internships and entry-level opportunities.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sachin-saroj&show_icons=true&theme=github_dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=sachin-saroj&theme=github-dark&hide_border=true" />
+</p>
 
 ---
 
-> Build fast. Improve daily. Ship real things.
+## 🎯 Currently Focused On
+
+- Advanced React patterns  
+- Backend API architecture  
+- System design fundamentals  
+- AI workflow automation  
+
+---
+
+> I build real systems. Not hype projects.
