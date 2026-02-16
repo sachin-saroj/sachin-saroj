@@ -37,7 +37,7 @@ Focused on clean architecture, performance optimization, and real-world product 
 
 ### 🤖 AI & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,chatgpt" />
 </p>
 
 ---
