@@ -7,7 +7,7 @@
 </p>
 
 # 👋 Hi, I'm Sachin Saroj  
-### Full-Stack Developer | AI-Integrated Web Applications | Performance-Focused Systems
+### Full-Stack Developer | Learning backend systems and AI integration | Performance-Focused Systems
 
 I build scalable web applications combining **React frontend**, **Python backend**, and **AI-powered workflows**.  
 Focused on clean architecture, performance optimization, and real-world product development.
