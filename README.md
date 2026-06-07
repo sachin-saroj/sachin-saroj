@@ -8,10 +8,9 @@
 
 <p align="center">
   <i>
-<p align="center">
-I started with curiosity and a simple interest in technology. What began as learning web development gradually turned into an interest in backend systems, databases, APIs, and software architecture. Today I spend most of my time building projects, learning engineering principles, and exploring practical applications of AI. My goal is to keep improving as an engineer, build useful software, and develop the skills needed to work on large-scale AI-powered systems in the future.
+    I started with curiosity and a simple interest in technology. What began as learning web development gradually turned into an interest in backend systems, databases, APIs, and software architecture. Today I spend most of my time building projects, learning engineering principles, and exploring practical applications of AI. My goal is to keep improving as an engineer, build useful software, and develop the skills needed to work on large-scale AI-powered systems in the future.
+  </i>
 </p>
-</i>
 <br>
 
 <a href="https://github.com/sachin-saroj">sachinsaroj.dev →</a>
@@ -21,11 +20,11 @@ I started with curiosity and a simple interest in technology. What began as lear
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sachin-saroj&label=Profile+Views&color=00FFFF&style=flat" alt="Profile Views" />
   &nbsp;
-  <a href="mailto:sachhhinsaroj@gmail.com">
+  <a href="mailto:sachhhinsrj@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/sachin-saroj">
+  <a href="https://www.linkedin.com/in/sachin-saroj-296a17361/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
@@ -38,7 +37,7 @@ I started with curiosity and a simple interest in technology. What began as lear
 - 🔧 Backend Engineer building **SaaS products**, **REST APIs**, and **AI-integrated systems**
 - 🤖 Working with **Claude, Gemini, OpenAI** APIs in real production workflows
 - 🚢 Focus: **deploy everything** — no more local-only builds
-- 📫 **sachhhinsaroj@gmail.com**
+- 📫 **sachhhinsrj@gmail.com**
 
 ---
 
