@@ -3,7 +3,7 @@
 <hr>
 
 <p align="center">
-  <img src="https://your-image-link.com/profile-image.png" width="500">
+  <img src="profile-image.png" width="500" alt="Sachin Saroj">
 </p>
 
 <br>
