@@ -11,29 +11,24 @@
 I started by learning how to build websites.
 </i>
 </p>
-
 <p align="center">
 <i>
 What kept me interested was everything happening behind them.
 </i>
 </p>
-
 <p align="center">
 <i>
 The APIs. The databases. The infrastructure.
 The systems that make software reliable at scale.
 </i>
 </p>
-
 <br>
-
 <p align="center">
 <i>
 Over time I became less interested in chasing frameworks
 and more interested in understanding principles.
 </i>
 </p>
-
 <p align="center">
 <i>
 Technology changes.
@@ -41,7 +36,6 @@ Tools change.
 Markets change.
 </i>
 </p>
-
 <p align="center">
 <i>
 The ability to solve problems,
@@ -49,9 +43,7 @@ design systems,
 and keep learning remains.
 </i>
 </p>
-
 <br>
-
 <p align="center">
 <i>
 Today I focus on backend engineering,
@@ -59,7 +51,6 @@ automation,
 and AI-powered products.
 </i>
 </p>
-
 <p align="center">
 <i>
 One project.
