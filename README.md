@@ -35,8 +35,8 @@
 
 - 🎓 Final-year **BSc IT** @ S.K. College of Science & Commerce, Navi Mumbai
 - 🔧 Backend Engineer building **SaaS products**, **REST APIs**, and **AI-integrated systems**
-- 🤖 Working with **Claude, Gemini, OpenAI** APIs in real production workflows
-- 🚢 Focus: **deploy everything** — no more local-only builds
+- 🤖 Building AI-powered applications using Claude, Gemini and OpenAI APIs
+- 🚀 Current Focus: **Backend Engineering**, **System Design**, and **AI-Powered Applications**
 - 📫 **sachhhinsrj@gmail.com**
 
 ---
@@ -138,5 +138,5 @@
 </p>
 
 <p align="center">
-  <b>Building scalable software, APIs and AI-powered systems.</b>
+  <b>Building scalable systems, reliable software and practical AI applications.</b>
 </p>
