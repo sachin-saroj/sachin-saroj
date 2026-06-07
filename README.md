@@ -1,7 +1,5 @@
 <h1 align="left">Sachin Saroj</h1>
 
-<hr>
-
 <p align="center">
   <img src="profile-image.png" width="500" alt="Sachin Saroj">
 </p>
