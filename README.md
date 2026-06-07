@@ -12,15 +12,6 @@
   </i>
 </p>
 <br>
-
-<a href="https://github.com/sachin-saroj">sachinsaroj.dev →</a>
-
-<hr>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sachin-saroj&label=Profile+Views&color=00FFFF&style=flat" alt="Profile Views" />
-</p>
-
 ---
 
 ## 🧑💻 About Me
