@@ -52,7 +52,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sachin-saroj&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="170" alt="GitHub Stats" />
@@ -66,12 +66,12 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>🏪 <a href="https://github.com/sachin-saroj/khansa-retail-os">Khansa Retail OS</a></h3>
+      <h3> <a href="https://github.com/sachin-saroj/khansa-retail-os">Khansa Retail OS</a></h3>
       <p>Premium SaaS for Kirana billing — POS, ledger management & smart inventory</p>
       <ul>
         <li>Multi-shop billing with GST support</li>
@@ -82,7 +82,7 @@
       <p><code>Node.js</code> <code>Express</code> <code>PostgreSQL</code> <code>React</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🔗 <a href="https://github.com/sachin-saroj/scalable-url-shortener">LinkForge</a></h3>
+      <h3> <a href="https://github.com/sachin-saroj/scalable-url-shortener">LinkForge</a></h3>
       <p>Scalable URL shortener with analytics and caching layer</p>
       <ul>
         <li>Custom slug generation</li>
@@ -95,7 +95,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📄 <a href="https://github.com/sachin-saroj/ai-resume-analyzer">AI Resume Analyzer PRO</a></h3>
+      <h3> <a href="https://github.com/sachin-saroj/ai-resume-analyzer">AI Resume Analyzer PRO</a></h3>
       <p>Claude API-powered resume analysis and feedback engine</p>
       <ul>
         <li>ATS score + keyword gap analysis</li>
@@ -106,7 +106,7 @@
       <p><code>Node.js</code> <code>Claude API</code> <code>React</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🔥 <a href="https://github.com/sachin-saroj/netflash">NETflash</a></h3>
+      <h3> <a href="https://github.com/sachin-saroj/netflash">NETflash</a></h3>
       <p>AI-Powered Product Intelligence Platform</p>
       <ul>
         <li>Competitor price tracking</li>
