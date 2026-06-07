@@ -6,6 +6,84 @@
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&lines=Sachin+Saroj+here+%F0%9F%94%A5;Backend+Engineer+%7C+AI+Systems;Building+real+products+%E2%80%94+not+demos" alt="Typing SVG" />
 </h1>
 
+<h1 align="left">Sachin Saroj</h1>
+
+<hr>
+
+<p align="center">
+  <img src="https://your-image-link.com/profile-image.png" width="500">
+</p>
+
+<br>
+
+<p align="center">
+<i>
+I started by learning how to build websites.
+</i>
+</p>
+
+<p align="center">
+<i>
+What kept me interested was everything happening behind them.
+</i>
+</p>
+
+<p align="center">
+<i>
+The APIs. The databases. The infrastructure.
+The systems that make software reliable at scale.
+</i>
+</p>
+
+<br>
+
+<p align="center">
+<i>
+Over time I became less interested in chasing frameworks
+and more interested in understanding principles.
+</i>
+</p>
+
+<p align="center">
+<i>
+Technology changes.
+Tools change.
+Markets change.
+</i>
+</p>
+
+<p align="center">
+<i>
+The ability to solve problems,
+design systems,
+and keep learning remains.
+</i>
+</p>
+
+<br>
+
+<p align="center">
+<i>
+Today I focus on backend engineering,
+automation,
+and AI-powered products.
+</i>
+</p>
+
+<p align="center">
+<i>
+One project.
+One improvement.
+One step at a time.
+</i>
+</p>
+
+<br>
+
+<a href="https://github.com/sachin-saroj">sachinsaroj.dev →</a>
+
+<hr>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sachin-saroj&label=Profile+Views&color=00FFFF&style=flat" alt="Profile Views" />
   &nbsp;
