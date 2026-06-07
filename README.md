@@ -19,11 +19,11 @@
   <tr>
     <td width="55%" valign="top">
       <ul>
-        <li>🎓 Final-year <b>BSc IT</b> @ S.K. College of Science & Commerce, Navi Mumbai</li>
-        <li>🔧 Backend Engineer building <b>SaaS products</b>, <b>REST APIs</b>, and <b>AI-integrated systems</b></li>
-        <li>🤖 Building AI-powered applications using Claude, Gemini and OpenAI APIs</li>
-        <li>🚀 Current Focus: <b>Backend Engineering</b>, <b>System Design</b>, and <b>AI-Powered Applications</b></li>
-        <li>📫 <b>sachhhinsrj@gmail.com</b></li>
+        <li> Final-year <b>BSc IT</b> @ S.K. College of Science & Commerce, Navi Mumbai</li>
+        <li> Backend Engineer building <b>SaaS products</b>, <b>REST APIs</b>, and <b>AI-integrated systems</b></li>
+        <li> Building AI-powered applications using Claude, Gemini and OpenAI APIs</li>
+        <li> Current Focus: <b>Backend Engineering</b>, <b>System Design</b>, and <b>AI-Powered Applications</b></li>
+        <li> <b>sachhhinsrj@gmail.com</b></li>
       </ul>
       <br>
       <b>Reach Me On:</b>
