@@ -7,26 +7,11 @@
 <br>
 
 <p align="center">
-  <i>I started by learning how to build websites.</i><br>
-  <i>What kept me interested was everything happening behind them.</i><br>
-  <i>The APIs. The databases. The infrastructure. The systems that make software reliable at scale.</i>
-</p>
-
-<br>
-
+  <i>
 <p align="center">
-  <i>Over time I became less interested in chasing frameworks and more interested in understanding principles.</i><br>
-  <i>Technology changes. Tools change. Markets change.</i><br>
-  <i>The ability to solve problems, design systems, and keep learning remains.</i>
+I started with curiosity and a simple interest in technology. What began as learning web development gradually turned into an interest in backend systems, databases, APIs, and software architecture. Today I spend most of my time building projects, learning engineering principles, and exploring practical applications of AI. My goal is to keep improving as an engineer, build useful software, and develop the skills needed to work on large-scale AI-powered systems in the future.
 </p>
-
-<br>
-
-<p align="center">
-  <i>Today I focus on backend engineering, automation, and AI-powered products.</i><br>
-  <i>One project. One improvement. One step at a time.</i>
-</p>
-
+</i>
 <br>
 
 <a href="https://github.com/sachin-saroj">sachinsaroj.dev →</a>
