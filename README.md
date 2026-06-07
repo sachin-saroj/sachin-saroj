@@ -13,7 +13,7 @@
 </p>
 <br>
 
-## ╰┈➤ About Me
+## ➤ About Me
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
@@ -44,7 +44,7 @@
 
 ---
 
-## ᕗ Languages & Tools I Have Placed My Hands On
+## ➤ Languages & Tools I Have Placed My Hands On
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,fastapi,postgres,redis,docker,python,react,express,js,git,linux" alt="Languages and Tools" />
@@ -52,7 +52,7 @@
 
 ---
 
-## ᕗ GitHub Stats
+## ➤ GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sachin-saroj&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="170" alt="GitHub Stats" />
@@ -66,7 +66,7 @@
 
 ---
 
-## ᕗ Featured Projects
+## ➤ Featured Projects
 
 <table width="100%">
   <tr>
