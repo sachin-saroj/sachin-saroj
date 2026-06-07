@@ -19,47 +19,45 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sachin-saroj&label=Profile+Views&color=00FFFF&style=flat" alt="Profile Views" />
-  &nbsp;
-  <a href="mailto:sachhhinsrj@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/sachin-saroj-296a17361/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
 </p>
 
 ---
 
 ## 🧑💻 About Me
 
-- 🎓 Final-year **BSc IT** @ S.K. College of Science & Commerce, Navi Mumbai
-- 🔧 Backend Engineer building **SaaS products**, **REST APIs**, and **AI-integrated systems**
-- 🤖 Building AI-powered applications using Claude, Gemini and OpenAI APIs
-- 🚀 Current Focus: **Backend Engineering**, **System Design**, and **AI-Powered Applications**
-- 📫 **sachhhinsrj@gmail.com**
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="55%" valign="top">
+      <ul>
+        <li>🎓 Final-year <b>BSc IT</b> @ S.K. College of Science & Commerce, Navi Mumbai</li>
+        <li>🔧 Backend Engineer building <b>SaaS products</b>, <b>REST APIs</b>, and <b>AI-integrated systems</b></li>
+        <li>🤖 Building AI-powered applications using Claude, Gemini and OpenAI APIs</li>
+        <li>🚀 Current Focus: <b>Backend Engineering</b>, <b>System Design</b>, and <b>AI-Powered Applications</b></li>
+        <li>📫 <b>sachhhinsrj@gmail.com</b></li>
+      </ul>
+      <br>
+      <b>Reach Me On:</b>
+      <br><br>
+      <a href="mailto:sachhhinsrj@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+      </a>
+      &nbsp;
+      <a href="https://www.linkedin.com/in/sachin-saroj-296a17361/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      </a>
+    </td>
+    <td width="45%" align="right" valign="middle">
+      <img src="developer-illustration.png" width="350" alt="Developer Illustration" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Languages & Tools I Have Placed My Hands On
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Claude%20%7C%20Gemini%20%7C%20OpenAI-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="AI Models" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,python,postgres,redis,docker,react,js,git,html,css,github,vscode,pycharm,figma,bash,mysql,cpp,java,postman,linux&perline=11" alt="Languages and Tools" />
 </p>
 
 ---
