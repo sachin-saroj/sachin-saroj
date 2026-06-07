@@ -3,144 +3,129 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&lines=Sachin+Saroj+here+%F0%9F%94%A5+!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&lines=Sachin+Saroj+here+%F0%9F%94%A5;Backend+Engineer+%7C+AI+Systems;Building+real+products+%E2%80%94+not+demos" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">Namaste 🙏 I'm Sachin Saroj</h3>
-
----
-
-## 🧩 About Me
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=sachin-saroj&label=Profile+Views&color=brightgreen&style=flat" alt="Profile Views" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/BSc%20IT%20Final%20Year-blue?style=flat" />
-</p>
-
-- 🚀 Began the journey with **Full-Stack Development** using Node.js + React
-- ⚙ I build **backend systems and SaaS tools** focused on clean architecture and real-world deployment
-- 🎓 Currently pursuing a degree in **BSc IT** @ S.K. College of Science & Commerce, Navi Mumbai
-- 🔗 I have worked on **Node.js, FastAPI, PostgreSQL, Redis, Docker** and AI API integrations
-- 🤖 Ask me about **REST APIs, JWT Auth, Docker, AI workflow automation**
-- 🧠 Deep interest in **System Design**, **LLM integrations**, and **performance-optimized systems**
-- ⭐ I only ship real products.
-
-<br/>
-
 <p align="center">
-  <strong>🔗 Follow Me On</strong><br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=sachin-saroj&label=Profile+Views&color=00FFFF&style=flat" alt="Profile Views" />
+  &nbsp;
   <a href="mailto:sachhhinsaroj@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/sachin-saroj">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/sachin-saroj">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
 ---
 
-## 🛠 Languages & Tools I Have Placed My Hands On
+## 🧑💻 About Me
+
+- 🎓 Final-year **BSc IT** @ S.K. College of Science & Commerce, Navi Mumbai
+- 🔧 Backend Engineer building **SaaS products**, **REST APIs**, and **AI-integrated systems**
+- 🤖 Working with **Claude, Gemini, OpenAI** APIs in real production workflows
+- 🚢 Focus: **deploy everything** — no more local-only builds
+- 📫 **sachhhinsaroj@gmail.com**
+
+---
+
+## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,nodejs,express,python,fastapi,postgres,redis,docker,git,github,vscode,postman,linux" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Claude%20%7C%20Gemini%20%7C%20OpenAI-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="AI Models" />
 </p>
 
 ---
 
-## ⚡ GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sachin-saroj&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sachin-saroj&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="170" alt="GitHub Stats" />
   &nbsp;
-  <img src="https://streak-stats.demolab.com?user=sachin-saroj&theme=github-dark&hide_border=true" height="180" />
+  <img src="https://streak-stats.demolab.com?user=sachin-saroj&theme=github-dark&hide_border=true" height="170" alt="Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachin-saroj&layout=pie&theme=github_dark&hide_border=true&langs_count=6" height="200" />
-</p>
-
----
-
-## 💻 Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Claude%20API-191919?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachin-saroj&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Top Languages" />
 </p>
 
 ---
+
+## 🚀 Featured Projects
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">⭐ Top Contributed Repos</h3>
-      <p align="center">
-        <img src="https://github-contributor-stats.vercel.app/api?username=sachin-saroj&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true" />
-      </p>
+      <h3>🏪 <a href="https://github.com/sachin-saroj/khansa-retail-os">Khansa Retail OS</a></h3>
+      <p>Premium SaaS for Kirana billing — POS, ledger management & smart inventory</p>
+      <ul>
+        <li>Multi-shop billing with GST support</li>
+        <li>Real-time inventory tracking</li>
+        <li>Customer ledger & credit management</li>
+        <li>Role-based access (admin / staff)</li>
+      </ul>
+      <p><code>Node.js</code> <code>Express</code> <code>PostgreSQL</code> <code>React</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🎲 Random Dev Quote</h3>
-      <p align="center">
-        <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark" />
-      </p>
+      <h3>🔗 <a href="https://github.com/sachin-saroj/scalable-url-shortener">LinkForge</a></h3>
+      <p>Scalable URL shortener with analytics and caching layer</p>
+      <ul>
+        <li>Custom slug generation</li>
+        <li>Redis-based caching for sub-10ms redirects</li>
+        <li>Click analytics dashboard</li>
+        <li>Fully Dockerized for deployment</li>
+      </ul>
+      <p><code>FastAPI</code> <code>Redis</code> <code>Docker</code> <code>Python</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📄 <a href="https://github.com/sachin-saroj/ai-resume-analyzer">AI Resume Analyzer PRO</a></h3>
+      <p>Claude API-powered resume analysis and feedback engine</p>
+      <ul>
+        <li>ATS score + keyword gap analysis</li>
+        <li>Role-fit feedback per job description</li>
+        <li>Section-by-section improvement suggestions</li>
+        <li>PDF upload support</li>
+      </ul>
+      <p><code>Node.js</code> <code>Claude API</code> <code>React</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔥 <a href="https://github.com/sachin-saroj/netflash">NETflash</a></h3>
+      <p>AI-Powered Product Intelligence Platform</p>
+      <ul>
+        <li>Competitor price tracking</li>
+        <li>Market trend analysis via Gemini API</li>
+        <li>Product insight dashboard</li>
+        <li>E-commerce data aggregation</li>
+      </ul>
+      <p><code>Node.js</code> <code>React</code> <code>Gemini API</code></p>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🚀 Featured Projects
-
-| 🔹 Project | 📋 Description | 🛠 Stack |
-|-----------|---------------|---------|
-| [**NETflash**](https://github.com/sachin-saroj/netflash) | AI-Powered Product Intelligence Platform — competitor analysis & market insights | Node.js · React · Gemini API |
-| [**Khansa Retail OS**](https://github.com/sachin-saroj/khansa-retail-os) | Premium SaaS for Kirana billing — POS, ledger, smart inventory | Node.js · Express · PostgreSQL · React |
-| [**AI Resume Analyzer PRO**](https://github.com/sachin-saroj/ai-resume-analyzer) | ATS scoring, keyword optimization & role-fit feedback via Claude API | Node.js · Claude API · React |
-| [**LinkForge**](https://github.com/sachin-saroj/scalable-url-shortener) | Scalable URL shortener with custom slugs, analytics & Redis caching | FastAPI · Redis · Docker · Python |
-| [**HabitGuard**](https://github.com/sachin-saroj/HabitGuard) | Predictive habit tracking desktop app with streak analytics | Electron · JavaScript |
-| [**SOS One App**](https://github.com/sachin-saroj/sos-one-app) | Emergency SOS desktop app with real-time contact alerts | Electron · JavaScript |
-
----
-
-## 🍺 Support Me
-
 <p align="center">
-  <a href="https://www.buymeacoffee.com/sachinsaroj">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="banner.png" width="100%" alt="footer banner" />
+  <img src="banner.png" width="100%" alt="footer" />
 </p>
 
 <p align="center">
-  <b>I build real systems. Not hype projects.</b>
+  <b>Building scalable software, APIs and AI-powered systems.</b>
 </p>
