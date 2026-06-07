@@ -47,7 +47,7 @@
 ## 🛠 Languages & Tools I Have Placed My Hands On
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,nodejs,fastapi,express,postgres,redis,docker,js,linux,git" alt="Languages and Tools" />
+  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,postgres,redis,docker,python,aws,kubernetes,kafka,pytorch,githubactions" alt="Languages and Tools" />
 </p>
 
 ---
