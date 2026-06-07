@@ -1,11 +1,3 @@
-<p align="center">
-  <img src="banner.png" width="100%" alt="banner" />
-</p>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&lines=Sachin+Saroj+here+%F0%9F%94%A5;Backend+Engineer+%7C+AI+Systems;Building+real+products+%E2%80%94+not+demos" alt="Typing SVG" />
-</h1>
-
 <h1 align="left">Sachin Saroj</h1>
 
 <hr>
