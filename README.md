@@ -7,56 +7,24 @@
 <br>
 
 <p align="center">
-<i>
-I started by learning how to build websites.
-</i>
+  <i>I started by learning how to build websites.</i><br>
+  <i>What kept me interested was everything happening behind them.</i><br>
+  <i>The APIs. The databases. The infrastructure. The systems that make software reliable at scale.</i>
 </p>
-<p align="center">
-<i>
-What kept me interested was everything happening behind them.
-</i>
-</p>
-<p align="center">
-<i>
-The APIs. The databases. The infrastructure.
-The systems that make software reliable at scale.
-</i>
-</p>
+
 <br>
+
 <p align="center">
-<i>
-Over time I became less interested in chasing frameworks
-and more interested in understanding principles.
-</i>
+  <i>Over time I became less interested in chasing frameworks and more interested in understanding principles.</i><br>
+  <i>Technology changes. Tools change. Markets change.</i><br>
+  <i>The ability to solve problems, design systems, and keep learning remains.</i>
 </p>
-<p align="center">
-<i>
-Technology changes.
-Tools change.
-Markets change.
-</i>
-</p>
-<p align="center">
-<i>
-The ability to solve problems,
-design systems,
-and keep learning remains.
-</i>
-</p>
+
 <br>
+
 <p align="center">
-<i>
-Today I focus on backend engineering,
-automation,
-and AI-powered products.
-</i>
-</p>
-<p align="center">
-<i>
-One project.
-One improvement.
-One step at a time.
-</i>
+  <i>Today I focus on backend engineering, automation, and AI-powered products.</i><br>
+  <i>One project. One improvement. One step at a time.</i>
 </p>
 
 <br>
