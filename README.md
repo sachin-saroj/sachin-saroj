@@ -37,7 +37,7 @@
       </a>
     </td>
     <td width="45%" align="right" valign="middle">
-      <img src="developer-illustration.png" width="350" alt="Developer Illustration" />
+      <img src="lego-illustration.png" width="350" alt="Developer Illustration" />
     </td>
   </tr>
 </table>
