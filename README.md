@@ -8,7 +8,7 @@
 
 <p align="center">
   <i>
-    I started with curiosity and a simple interest in technology. What began as learning web development gradually turned into an interest in backend systems, databases, APIs, and software architecture. Today I spend most of my time building projects, learning engineering principles, and exploring practical applications of AI. My goal is to keep improving as an engineer, build useful software, and develop the skills needed to work on large-scale AI-powered systems in the future.
+    I got interested in technology out of curiosity and started learning web development. Over time, I found myself enjoying backend development more, especially working with APIs, databases, and software architecture. These days, I spend most of my time building projects, learning new skills, and exploring practical AI. My goal is to keep improving as an engineer and build useful, scalable software.
   </i>
 </p>
 <br>
