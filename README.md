@@ -1,120 +1,146 @@
-<h1 align="left">Sachin Saroj</h1>
+<h1 align="center">Hi 👋, I'm Sachin Saroj</h1>
+<h3 align="center">Backend Engineer | System Architecture | AI-Powered Applications</h3>
 
 <p align="center">
   <img src="profile-image.png" width="500" alt="Sachin Saroj">
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sachin-saroj-296a17361/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:sachhhinsrj@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/sachin-saroj">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
 <br>
 
 <p align="center">
   <i>
-    I got interested in technology out of curiosity and started learning web development. Over time, I found myself enjoying backend development more, especially working with APIs, databases, and software architecture. These days, I spend most of my time building projects, learning new skills, and exploring practical AI. My goal is to keep improving as an engineer and build useful, scalable software.
+    "I got interested in technology out of curiosity and started learning web development. Over time, I found myself enjoying backend development more—especially working with APIs, databases, and software architecture. These days, I spend most of my time building scalable projects, learning new skills, and exploring practical AI applications."
   </i>
 </p>
+
 <br>
 
-## ➤ About Me
+---
+
+## ⚡ About Me
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td width="55%" valign="top">
+    <td width="60%" valign="top">
       <ul>
-        <li> Final-year <b>BSc IT</b> @ S.K. College of Science & Commerce, Navi Mumbai</li>
-        <li> Backend Engineer building <b>SaaS products</b>, <b>REST APIs</b>, and <b>AI-integrated systems</b></li>
-        <li> Building AI-powered applications using Claude, Gemini and OpenAI APIs</li>
-        <li> Current Focus: <b>Backend Engineering</b>, <b>System Design</b>, and <b>AI-Powered Applications</b></li>
-        <li> <b>sachhhinsrj@gmail.com</b></li>
+        <li>🎓 Final-year <b>BSc IT</b> @ S.K. College of Science & Commerce, Navi Mumbai</li>
+        <li>💻 <b>Backend Engineer</b> building SaaS products, high-performance REST APIs & system architecture</li>
+        <li>🤖 Building AI-powered applications integrating <b>Claude API</b>, <b>Gemini API</b>, and <b>OpenAI</b></li>
+        <li>🚀 Current Focus: <b>Backend Engineering</b>, <b>System Design</b>, and <b>AI-Powered Applications</b></li>
+        <li>📫 Reach out at: <a href="mailto:sachhhinsrj@gmail.com"><b>sachhhinsrj@gmail.com</b></a></li>
       </ul>
-      <br>
-      <b>Reach Me On:</b>
-      <br><br>
-      <a href="mailto:sachhhinsrj@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-      </a>
-      &nbsp;
-      <a href="https://www.linkedin.com/in/sachin-saroj-296a17361/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-      </a>
     </td>
-    <td width="45%" align="right" valign="middle">
-      <img src="lego-illustration.png" width="350" alt="Developer Illustration" />
+    <td width="40%" align="right" valign="middle">
+      <img src="lego-illustration.png" width="320" alt="Developer Illustration" />
     </td>
   </tr>
 </table>
 
 ---
 
-## ➤ Languages & Tools I Have Placed My Hands On
+## 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,postgres,redis,docker,python,react,express,js,git,linux" alt="Languages and Tools" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,python,js,postgres,redis,docker,react,git,linux,postman,vscode" alt="Languages and Tools" />
 </p>
 
 ---
 
-## ➤ GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sachin-saroj&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="170" alt="GitHub Stats"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=sachin-saroj&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="170" alt="GitHub Stats"/>
   &nbsp;
   <img src="https://streak-stats.demolab.com?user=sachin-saroj&theme=github-dark&hide_border=true" height="170" alt="Streak Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sachin-saroj&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Top Languages"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sachin-saroj&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Top Languages"/>
 </p>
 
 ---
 
-## ➤ Featured Projects
+## 🚀 Featured Projects
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3> <a href="https://github.com/sachin-saroj/khansa-retail-os">Khansa Retail OS</a></h3>
-      <p>Premium SaaS for Kirana billing — POS, ledger management & smart inventory</p>
+      <h3>🏪 <a href="https://github.com/sachin-saroj/khansa-retail-os">Khansa Retail OS</a></h3>
+      <p><b>Premium SaaS for Kirana Billing & Inventory</b></p>
       <ul>
-        <li>Multi-shop billing with GST support</li>
-        <li>Real-time inventory tracking</li>
-        <li>Customer ledger & credit management</li>
-        <li>Role-based access (admin / staff)</li>
+        <li>Multi-shop billing with automated GST support</li>
+        <li>Real-time inventory tracking & low-stock alerts</li>
+        <li>Customer ledger & credit management system</li>
+        <li>Role-based access control (Admin / Staff)</li>
       </ul>
-      <p><code>Node.js</code> <code>Express</code> <code>PostgreSQL</code> <code>React</code></p>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+      </p>
     </td>
     <td width="50%" valign="top">
-      <h3> <a href="https://github.com/sachin-saroj/scalable-url-shortener">LinkForge</a></h3>
-      <p>Scalable URL shortener with analytics and caching layer</p>
+      <h3>🔗 <a href="https://github.com/sachin-saroj/scalable-url-shortener">LinkForge</a></h3>
+      <p><b>Scalable URL Shortener with Analytics</b></p>
       <ul>
-        <li>Custom slug generation</li>
-        <li>Redis-based caching for sub-10ms redirects</li>
-        <li>Click analytics dashboard</li>
-        <li>Fully Dockerized for deployment</li>
+        <li>Custom slug generation algorithm</li>
+        <li>Redis-based caching layer for sub-10ms redirects</li>
+        <li>Real-time click analytics dashboard</li>
+        <li>Fully Dockerized for instant cloud deployment</li>
       </ul>
-      <p><code>FastAPI</code> <code>Redis</code> <code>Docker</code> <code>Python</code></p>
+      <p>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3> <a href="https://github.com/sachin-saroj/ai-resume-analyzer">AI Resume Analyzer PRO</a></h3>
-      <p>Claude API-powered resume analysis and feedback engine</p>
+      <h3>📄 <a href="https://github.com/sachin-saroj/ai-resume-analyzer">AI Resume Analyzer PRO</a></h3>
+      <p><b>Claude API-Powered Feedback Engine</b></p>
       <ul>
         <li>ATS score + keyword gap analysis</li>
         <li>Role-fit feedback per job description</li>
-        <li>Section-by-section improvement suggestions</li>
-        <li>PDF upload support</li>
+        <li>Section-by-section actionable improvement points</li>
+        <li>Direct PDF parsing & structured reporting</li>
       </ul>
-      <p><code>Node.js</code> <code>Claude API</code> <code>React</code></p>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Claude_API-D97706?style=flat-square&logo=anthropic&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+      </p>
     </td>
     <td width="50%" valign="top">
-      <h3> <a href="https://github.com/sachin-saroj/netflash">NETflash</a></h3>
-      <p>AI-Powered Product Intelligence Platform</p>
+      <h3>⚡ <a href="https://github.com/sachin-saroj/netflash">NETflash</a></h3>
+      <p><b>AI-Powered Product Intelligence Platform</b></p>
       <ul>
-        <li>Competitor price tracking</li>
-        <li>Market trend analysis via Gemini API</li>
-        <li>Product insight dashboard</li>
-        <li>E-commerce data aggregation</li>
+        <li>Automated competitor price & product tracking</li>
+        <li>Market trend analysis using Gemini API</li>
+        <li>Interactive product insight dashboard</li>
+        <li>Multi-platform e-commerce data aggregation</li>
       </ul>
-      <p><code>Node.js</code> <code>React</code> <code>Gemini API</code></p>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=google&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+      </p>
     </td>
   </tr>
 </table>
@@ -126,5 +152,5 @@
 </p>
 
 <p align="center">
-  <b>Building scalable systems, reliable software and practical AI applications.</b>
+  <b>Building scalable systems, reliable software, and practical AI applications.</b>
 </p>
