@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Sachin Saroj</h1>
-<h3 align="center">Backend Engineer | System Architecture | AI-Powered Applications</h3>
-
 <p align="center">
   <img src="profile-image.png" width="500" alt="Sachin Saroj">
 </p>
