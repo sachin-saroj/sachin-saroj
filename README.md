@@ -53,18 +53,55 @@
 
 ---
 
+
 ## 🚀 Featured Projects
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>🏪 <a href="https://github.com/sachin-saroj/khansa-retail-os">Khansa Retail OS</a></h3>
-      <p><b>Premium SaaS for Kirana Billing & Inventory</b></p>
+      <h3>🏛️ <a href="https://github.com/sachin-saroj/GovSkill">GovSkill</a></h3>
+      <p><b>AI-Powered Government Skill & Document Platform</b></p>
       <ul>
-        <li>Multi-shop billing with automated GST support</li>
-        <li>Real-time inventory tracking & low-stock alerts</li>
-        <li>Customer ledger & credit management system</li>
-        <li>Role-based access control (Admin / Staff)</li>
+        <li>AI-powered document analysis with OCR integration</li>
+        <li>Secure certificate verification using HMAC-SHA256</li>
+        <li>REST APIs with JWT authentication and role-based access</li>
+        <li>PostgreSQL, database migrations and Docker deployment</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔗 <a href="https://github.com/sachin-saroj/scalable-url-shortener">LinkForge</a></h3>
+      <p><b>Backend-Focused URL Shortener & Analytics System</b></p>
+      <ul>
+        <li>Custom short-link generation and redirection</li>
+        <li>Redis caching for optimized redirect resolution</li>
+        <li>Celery workers for asynchronous background processing</li>
+        <li>JWT authentication, rate limiting and analytics</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+        <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏪 <a href="https://github.com/sachin-saroj/khansa-retail-os">Khansa Retail OS</a></h3>
+      <p><b>SaaS Platform for Retail Billing & Inventory Management</b></p>
+      <ul>
+        <li>Multi-shop billing and GST support</li>
+        <li>Inventory tracking and low-stock alerts</li>
+        <li>Customer credit ledger and management</li>
+        <li>Role-based access and automated E2E testing</li>
       </ul>
       <p>
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
@@ -74,51 +111,19 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🔗 <a href="https://github.com/sachin-saroj/scalable-url-shortener">LinkForge</a></h3>
-      <p><b>Scalable URL Shortener with Analytics</b></p>
+      <h3>⚖️ <a href="https://github.com/sachin-saroj/CivicResolve">CivicResolve</a></h3>
+      <p><b>Civic Grievance Management & Workflow Platform</b></p>
       <ul>
-        <li>Custom slug generation algorithm</li>
-        <li>Redis-based caching layer for sub-10ms redirects</li>
-        <li>Real-time click analytics dashboard</li>
-        <li>Fully Dockerized for instant cloud deployment</li>
+        <li>Structured grievance lifecycle and status transitions</li>
+        <li>Role-based access control and SLA escalation</li>
+        <li>Type-safe APIs with input validation</li>
+        <li>Automated testing with Vitest and Testing Library</li>
       </ul>
       <p>
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📄 <a href="https://github.com/sachin-saroj/ai-resume-analyzer">AI Resume Analyzer PRO</a></h3>
-      <p><b>Claude API-Powered Feedback Engine</b></p>
-      <ul>
-        <li>ATS score + keyword gap analysis</li>
-        <li>Role-fit feedback per job description</li>
-        <li>Section-by-section actionable improvement points</li>
-        <li>Direct PDF parsing & structured reporting</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Claude_API-D97706?style=flat-square&logo=anthropic&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>⚡ <a href="https://github.com/sachin-saroj/netflash">NETflash</a></h3>
-      <p><b>AI-Powered Product Intelligence Platform</b></p>
-      <ul>
-        <li>Automated competitor price & product tracking</li>
-        <li>Market trend analysis using Gemini API</li>
-        <li>Interactive product insight dashboard</li>
-        <li>Multi-platform e-commerce data aggregation</li>
-      </ul>
-      <p>
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=google&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Drizzle-C5F74F?style=flat-square&logo=drizzle&logoColor=black" />
       </p>
     </td>
   </tr>
