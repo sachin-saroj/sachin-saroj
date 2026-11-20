@@ -4,7 +4,7 @@
 
 <p align="center">
   <i>
-    "I got interested in technology out of curiosity and started learning web development. Over time, I found myself enjoying backend development more—especially working with APIs, databases, and software architecture. These days, I spend most of my time building scalable projects, learning new skills, and exploring practical AI applications."
+    I got interested in technology out of curiosity and started learning web development. Over time, I found myself enjoying backend development more—especially working with APIs, databases, and software architecture. These days, I spend most of my time building scalable projects, learning new skills, and exploring practical AI applications.
   </i>
 </p>
 
