@@ -36,7 +36,7 @@
 ## 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,express,fastapi,react,tailwind,vite,postgres,mongodb,redis,sqlite,docker,linux,nginx,git,github,postman&perline=7" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,express,fastapi,react,tailwind,vite,postgres,mongodb,redis,sqlite,docker,linux,nginx,git,github,postman&perline=10" alt="Tech Stack" />
 </p>
 
 ---
